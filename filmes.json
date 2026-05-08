@@ -1,1 +1,25 @@
-{}
+{
+    "teste": {
+        "ano": "1000",
+        "diretor": "ney",
+        "genero": "terror",
+        "atores": [
+            "teste",
+            "tesste"
+        ]
+    },
+    "a24": {
+        "data": "2026",
+        "genero": "TERROR"
+    },
+    "Homen-Caju": {
+        "ano": "2025",
+        "diretor": "Raimundo",
+        "genero": "Comedia",
+        "atores": [
+            "Madona",
+            "As Panteras",
+            "Gicuanda"
+        ]
+    }
+}
