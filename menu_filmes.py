@@ -41,6 +41,11 @@ def cadastrar_filme(filmes):
             input("Pressione ENTER para continuar...")
             continue
 
+        if nome in filmes:
+            print("Esse filme ja esta cadastrado.")
+            input("Pressione ENTER para continuar...")
+            continue
+
         ano = input("Digite o ano do filme: ").strip()
         diretor = input("Digite o diretor do filme: ").strip()
         genero = input("Digite o genero do filme: ").strip()
