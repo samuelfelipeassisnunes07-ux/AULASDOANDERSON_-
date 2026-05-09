@@ -1,25 +1,202 @@
 {
-    "teste": {
-        "ano": "1000",
-        "diretor": "ney",
-        "genero": "terror",
+    "O Poderoso Chefao": {
+        "ano": "1972",
+        "diretor": "Francis Ford Coppola",
+        "genero": "Drama",
         "atores": [
-            "teste",
-            "tesste"
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
         ]
     },
-    "a24": {
-        "data": "2026",
-        "genero": "TERROR"
-    },
-    "Homen-Caju": {
-        "ano": "2025",
-        "diretor": "Raimundo",
-        "genero": "Comedia",
+    "Pulp Fiction": {
+        "ano": "1994",
+        "diretor": "Quentin Tarantino",
+        "genero": "Crime",
         "atores": [
-            "Madona",
-            "As Panteras",
-            "Gicuanda"
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ]
+    },
+    "A Origem": {
+        "ano": "2010",
+        "diretor": "Christopher Nolan",
+        "genero": "Ficcao cientifica",
+        "atores": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ]
+    },
+    "Matrix": {
+        "ano": "1999",
+        "diretor": "Lana Wachowski e Lilly Wachowski",
+        "genero": "Ficcao cientifica",
+        "atores": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ]
+    },
+    "Clube da Luta": {
+        "ano": "1999",
+        "diretor": "David Fincher",
+        "genero": "Drama",
+        "atores": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter"
+        ]
+    },
+    "Forrest Gump": {
+        "ano": "1994",
+        "diretor": "Robert Zemeckis",
+        "genero": "Drama",
+        "atores": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ]
+    },
+    "Interestelar": {
+        "ano": "2014",
+        "diretor": "Christopher Nolan",
+        "genero": "Ficcao cientifica",
+        "atores": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ]
+    },
+    "Cidade de Deus": {
+        "ano": "2002",
+        "diretor": "Fernando Meirelles e Katia Lund",
+        "genero": "Drama",
+        "atores": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Phellipe Haagensen"
+        ]
+    },
+    "Tropa de Elite": {
+        "ano": "2007",
+        "diretor": "Jose Padilha",
+        "genero": "Acao",
+        "atores": [
+            "Wagner Moura",
+            "Caio Junqueira",
+            "Andre Ramiro"
+        ]
+    },
+    "O Senhor dos Aneis: A Sociedade do Anel": {
+        "ano": "2001",
+        "diretor": "Peter Jackson",
+        "genero": "Fantasia",
+        "atores": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ]
+    },
+    "Harry Potter e a Pedra Filosofal": {
+        "ano": "2001",
+        "diretor": "Chris Columbus",
+        "genero": "Fantasia",
+        "atores": [
+            "Daniel Radcliffe",
+            "Emma Watson",
+            "Rupert Grint"
+        ]
+    },
+    "Titanic": {
+        "ano": "1997",
+        "diretor": "James Cameron",
+        "genero": "Romance",
+        "atores": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane"
+        ]
+    },
+    "Avatar": {
+        "ano": "2009",
+        "diretor": "James Cameron",
+        "genero": "Ficcao cientifica",
+        "atores": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver"
+        ]
+    },
+    "Pantera Negra": {
+        "ano": "2018",
+        "diretor": "Ryan Coogler",
+        "genero": "Acao",
+        "atores": [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyongo"
+        ]
+    },
+    "Vingadores: Ultimato": {
+        "ano": "2019",
+        "diretor": "Anthony Russo e Joe Russo",
+        "genero": "Acao",
+        "atores": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Scarlett Johansson"
+        ]
+    },
+    "Homem-Aranha no Aranhaverso": {
+        "ano": "2018",
+        "diretor": "Bob Persichetti, Peter Ramsey e Rodney Rothman",
+        "genero": "Animacao",
+        "atores": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ]
+    },
+    "Toy Story": {
+        "ano": "1995",
+        "diretor": "John Lasseter",
+        "genero": "Animacao",
+        "atores": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ]
+    },
+    "O Rei Leao": {
+        "ano": "1994",
+        "diretor": "Roger Allers e Rob Minkoff",
+        "genero": "Animacao",
+        "atores": [
+            "Matthew Broderick",
+            "James Earl Jones",
+            "Jeremy Irons"
+        ]
+    },
+    "Parasita": {
+        "ano": "2019",
+        "diretor": "Bong Joon-ho",
+        "genero": "Suspense",
+        "atores": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ]
+    },
+    "Corra": {
+        "ano": "2017",
+        "diretor": "Jordan Peele",
+        "genero": "Terror",
+        "atores": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Bradley Whitford"
         ]
     }
 }
